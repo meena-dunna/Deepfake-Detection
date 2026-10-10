@@ -1,0 +1,14 @@
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+node_modules/
+.git/
+.gitignore
+*.ipynb
+data/
+datasets/
+checkpoints/
+*.pth
